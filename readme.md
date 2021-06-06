@@ -1,5 +1,7 @@
 # You Don't Need GUI
 
+clone from : [you-dont-need/You-Dont-Need-GUI: Stop relying on GUI; CLI **ROCKS** (github.com)](https://github.com/you-dont-need/You-Dont-Need-GUI)
+
 [![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/you-dont-need/GUI)
 
 <details>
